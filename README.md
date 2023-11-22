@@ -41,6 +41,9 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![vinnush ex 7](https://github.com/vinnush147/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/147139234/7bd31150-2944-4a91-b0d0-19ab55609b84)
+
+
 
 ## RESULT:
 
